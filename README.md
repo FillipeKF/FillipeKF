@@ -1,7 +1,7 @@
 # Olá! Sou Fillipe de Carvalho Leal 👋
 
 * 🌎 Sou morador de Rio de janeiro .
-* 💻 Sou um Desenvolvedor Full Stafk
+* 💻 Sou um Desenvolvedor Full Stack
 * 📚 Atualmente estudando AWS , Redes , Cybersecurity .
 
 ## Encontre-me por aqui 🌍
